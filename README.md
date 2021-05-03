@@ -2,6 +2,8 @@
 
 ### I'm a student at the University of Wisconsin Madison studying CS and work in FullStack Typescript
 
+### I'm currently doing my internship at startup_name
+
 <!--
 **Mihir-Achyuta/Mihir-Achyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
