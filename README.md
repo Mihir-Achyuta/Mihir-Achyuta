@@ -4,6 +4,8 @@
 
 ### I'm currently doing my internship at startup_name
 
+### My Projects include : FontBlurbs, PaletteBuds, and TasksEcute
+
 <!--
 **Mihir-Achyuta/Mihir-Achyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
