@@ -6,6 +6,8 @@
 
 ### My Projects include : FontBlurbs, PaletteBuds, and TasksEcute
 
+### If you want to contact me, my email is achyutamihir@gmail.com
+
 <!--
 **Mihir-Achyuta/Mihir-Achyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
