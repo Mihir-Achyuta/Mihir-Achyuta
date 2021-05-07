@@ -6,6 +6,12 @@
 
 ### My Projects include : FontBlurbs, PaletteBuds, and TasksEcute
 
+## FontBlurbs is a way to dynamically save your font pairings
+
+## PaletteBuds allows you to create beautiful color schemes with the click of a button
+
+## TasksEcute easily organizes your tasks in a clean way
+
 ### If you want to contact me, my email is achyutamihir@gmail.com
 
 <!--
