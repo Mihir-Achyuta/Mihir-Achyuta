@@ -2,7 +2,7 @@
 
 ### I'm a student at the University of Wisconsin Madison studying CS and work in FullStack Typescript
 
-### I'm currently doing my internship at startup_name
+### I'm currently doing my Software Engineering Internship at Startup_Name
 
 ### My Projects include : FontBlurbs, PaletteBuds, and TasksEcute
 
