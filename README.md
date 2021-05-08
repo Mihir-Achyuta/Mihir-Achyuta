@@ -8,6 +8,8 @@
 
 ## FontBlurbs is a way to dynamically save your font pairings
 
+# It's built with an EJS Frontend and Node Backend with MongoDB as its database
+
 ## PaletteBuds allows you to create beautiful color schemes with the click of a button
 
 ## TasksEcute easily organizes your tasks in a clean way
