@@ -12,6 +12,8 @@
 
 ## PaletteBuds allows you to create beautiful color schemes with the click of a button
 
+# It's built with a React Frontend and Node backend with MongoDB as its database
+
 ## TasksEcute easily organizes your tasks in a clean way
 
 ### If you want to contact me, my email is achyutamihir@gmail.com
