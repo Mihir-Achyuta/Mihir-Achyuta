@@ -16,6 +16,8 @@
 
 ## TasksEcute easily organizes your tasks in a clean way
 
+# It's built with a React Frontend and Node backend with SQL as its Database
+
 ### If you want to contact me, my email is achyutamihir@gmail.com
 
 <!--
