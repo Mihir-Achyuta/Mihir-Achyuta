@@ -18,7 +18,7 @@
 
 # It's built with a React Frontend and Node backend with SQL as its Database
 
-### If you want to contact me, my email is achyutamihir@gmail.com
+### If you want to contact me, my email is achyutamihir@gmail.com and my personal website is [here](https://mihirachyuta.netlify.app/)
 
 <!--
 **Mihir-Achyuta/Mihir-Achyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
