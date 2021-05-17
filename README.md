@@ -1,6 +1,8 @@
-# Hi I'm Mihir 👋
+![Alt Text](https://i.imgur.com/Ug2rb1J.gif)
 
-## I'm a student at the University of Wisconsin Madison studying CS and work in FullStack Typescript
+# Hi I'm Mihir 👋 (Here's a quick TLDR about me)
+
+## I'm a freshman at the University of Wisconsin Madison studying CS and work in FullStack Typescript
 
 ## I'm currently doing my Software Engineering Internship at Startup_Name
 
