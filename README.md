@@ -10,6 +10,8 @@
 
 - #### If you want to contact me, my email is achyutamihir@gmail.com and my personal website is [here](https://mihirachyuta.netlify.app/)
 
+&nbsp;
+
 <details>
 <summary>How I got started</summary>
 <br/>
