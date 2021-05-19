@@ -1,4 +1,4 @@
-![Bear Hello](https://i.imgur.com/Ug2rb1J.gif) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir-Achyuta&theme=dark&hide=prs,issues,stars&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Bear Hello](https://i.imgur.com/Ug2rb1J.gif) [![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir-Achyuta&theme=dark&hide=prs,issues,stars&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi I'm Mihir 👋! (Here's a quick TLDR about me)
 
