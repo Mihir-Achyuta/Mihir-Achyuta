@@ -1,4 +1,4 @@
-![Bear Hello](https://i.imgur.com/Ug2rb1J.gif)
+![Bear Hello](https://i.imgur.com/Ug2rb1J.gif) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir-Achyuta&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi I'm Mihir 👋 (Here's a quick TLDR about me)
 
