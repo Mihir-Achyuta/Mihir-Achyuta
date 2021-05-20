@@ -15,5 +15,7 @@
 <details>
 <summary>How I got started</summary>
 <br/>
-I write here about how I got started.
+2019: I started junior year of high school with AP Computer Science A that covered basic Object Oriented Programming and Data Structures(like strings, arrays, arraylists) but I started taking programming seriously 2nd semester in 2020.
+<br/>
+2020:
 </details>
