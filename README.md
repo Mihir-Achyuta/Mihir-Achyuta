@@ -4,7 +4,7 @@
 
 - #### I'm a freshman at the University of Wisconsin Madison studying CS and work in FullStack Typescript
 
-- #### I'm currently doing my Software Engineering Internship at Hardly
+- #### I'm currently doing my Software Engineering Internship at [Hardly](https://hardly-work.com/)
 
 - #### My Projects include : FontBlurbs, PaletteBuds, and TasksEcute
 
