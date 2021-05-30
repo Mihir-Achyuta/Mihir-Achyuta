@@ -4,7 +4,7 @@
 
 - #### I'm a freshman at the University of Wisconsin Madison studying CS and work mainly in FullStack TypeScript
 
-- #### I'm currently doing my Software Engineering Internship at [Hardly](https://hardly-work.com) using Electron JS, AWS(DynamoDB), and TypeScript
+- #### I'm currently doing my Software Engineering Internship at [Hardly](https://hardly-work.com) working with Electron JS, AWS(DynamoDB), and TypeScript
 
 - #### My Projects include : FontBlurbs, PaletteBuds, and TasksEcute
 
