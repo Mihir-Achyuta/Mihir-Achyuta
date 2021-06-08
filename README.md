@@ -2,19 +2,18 @@
 
 # Hi I'm Mihir 👋! (Here's a quick TLDR about me)
 
-- #### I'm a freshman at the University of Wisconsin Madison studying CS and work mainly in FullStack TypeScript
+- #### I'm a freshman at the University of Wisconsin Madison majoring in Computer Science and work mainly in FullStack TypeScript
 
 - #### I'm currently doing my Software Engineering Internship at [Hardly](https://hardly-work.com) working with Electron JS, AWS(DynamoDB), and TypeScript
 
-- #### My Projects include : FontBlurbs, PaletteBuds, and TasksEcute
-
-- #### If you want to contact me, my email is achyutamihir@gmail.com and my LinkedIn is [here](https://www.linkedin.com/in/mihirachyuta)
-
-  - My resume is [here](https://www.overleaf.com/read/vnmcpssjgymk) and my Devpost of my hackathon projects are [here](https://devpost.com/mihirachyuta)
+- #### My Personal Projects include : FontBlurbs, PaletteBuds, and TasksEcute (The repos are currently private for now)
 
   - My Personal website is [here](https://mihirachyuta.netlify.app/)
+  - I've also participated in a number of [hackathons](https://devpost.com/mihirachyuta)
 
-&nbsp;
+- #### Here are the ways you can contact me:
+  - Email : achyutamihir@gmail.com
+  - Linkedin : [LinkedIn](https://www.linkedin.com/in/mihirachyuta) + [Resume](https://www.overleaf.com/read/vnmcpssjgymk)
 
 <details>
 <summary>How I got started and my path:</summary>
