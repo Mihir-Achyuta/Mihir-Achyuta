@@ -6,7 +6,7 @@
 
 - #### I'm currently doing my Software Engineering Internship at [Hardly](https://hardly-work.com) working with Electron JS, AWS(DynamoDB), and TypeScript
 
-- #### My Personal Projects include : FontBlurbs, PaletteBuds, and TasksEcute (The repos are currently private for now)
+- #### My Personal Projects include : TasksEcute, PaletteBuds, FontBlurbs, and Counterz (The repos are private but feel free to explore my web/mobile apps linked)
 
   - My Personal website is [here](https://mihirachyuta.netlify.app/)
   - I've also participated in a number of [hackathons](https://devpost.com/mihirachyuta)
