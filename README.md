@@ -2,9 +2,9 @@
 
 # Hi I'm Mihir 👋! (Here's a quick TLDR about me)
 
-- #### I'm a freshman at the University of Wisconsin Madison majoring in Computer Science and work mainly in FullStack TypeScript
+- #### I'm a student at the University of Wisconsin Madison majoring in Computer Science and work mainly in FullStack TypeScript
 
-- #### I'm currently doing my Software Engineering Internship at [Hardly](https://hardly-work.com) working with Electron JS, AWS(DynamoDB), and TypeScript
+- #### I previously did my Software Engineering Internship at [Hardly](https://hardly-work.com) working with React, Node, TypeScript, and TailwindCSS during Summer 2021
 
 - #### My Personal Projects include : TasksEcute, PaletteBuds, FontBlurbs, and Counterz (The repos are private but feel free to explore my web/mobile apps linked)
 
