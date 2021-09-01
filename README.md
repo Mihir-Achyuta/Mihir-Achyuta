@@ -14,6 +14,7 @@
 - #### Here are the ways you can contact me:
   - Email : achyutamihir@gmail.com
   - Linkedin : [LinkedIn](https://www.linkedin.com/in/mihirachyuta)
+  - Resume: [Resume](https://drive.google.com/file/d/14lCdrxst1fnZeup-mhKlEIuvOlTjRv3a/view)
 
 <details>
 <summary>How I got started and my path:</summary>
