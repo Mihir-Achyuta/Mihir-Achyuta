@@ -6,7 +6,7 @@
 
 - #### I previously did my Software Engineering Internship at [Hardly](https://hardly-work.com) working with React, Node, TypeScript, and TailwindCSS during Summer 2021
 
-- #### My Personal Projects include : [CATastrophe](https://github.com/Mihir-Achyuta/_CATastrophe_), [PaletteBuds](https://github.com/Mihir-Achyuta/_PaletteBuds_), [DSAPlayground](https://github.com/Mihir-Achyuta/_DSAPlayground_), and [FontBlurbs](https://github.com/Mihir-Achyuta/_FontBlurbs_) (The repos are private but feel free to explore my web/mobile apps linked and pinned on my profile and here)
+- #### My Personal Projects include : [CATastrophe](https://github.com/Mihir-Achyuta/_CATastrophe_), [PaletteBuds](https://github.com/Mihir-Achyuta/_PaletteBuds_), [DSAPlayground](https://github.com/Mihir-Achyuta/_DSAPlayground_), and [FontBlurbs](https://github.com/Mihir-Achyuta/_FontBlurbs_) (The main repos are private but feel free to explore the displayed ones linked and pinned on my profile and here)
 
   - My Personal website is [here](https://mihirachyuta.me/)
   - I've also participated in a number of [hackathons](https://devpost.com/mihirachyuta)
