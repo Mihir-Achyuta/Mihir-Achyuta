@@ -1,4 +1,4 @@
-![Bear Hello](https://i.imgur.com/Ug2rb1J.gif) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mihir-Achyuta&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+![Bear Hello](https://i.imgur.com/Ug2rb1J.gif)
 
 # Hi I'm Mihir 👋! (Here's a quick TLDR about me)
 
