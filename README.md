@@ -4,7 +4,7 @@
 
 - #### I'm a student at the University of Wisconsin Madison majoring in Computer Science and work mainly in FullStack TypeScript
 
-- #### I previously did my Software Engineering Internship at [Hardly](https://hardly-work.com) working with React, Node, TypeScript, and TailwindCSS during Summer 2021
+- #### I'll be doing Sofware Engineering Internships @ [Meta](https://about.facebook.com/meta) and [Hubspot](https://www.hubspot.com/) in 2022 and I previously did my Software Engineering Internship at [Hardly](https://hardly-work.com) Summer 2022 working with React, Node, TypeScript, and TailwindCSS during Summer 2021
 
 - #### My Personal Projects include : [CATastrophe](https://github.com/Mihir-Achyuta/_CATastrophe_), [PaletteBuds](https://github.com/Mihir-Achyuta/_PaletteBuds_), [DSAPlayground](https://github.com/Mihir-Achyuta/_DSAPlayground_), and [FontBlurbs](https://github.com/Mihir-Achyuta/_FontBlurbs_) (The main repos are private but feel free to explore the displayed ones linked and pinned on my profile and here)
 
