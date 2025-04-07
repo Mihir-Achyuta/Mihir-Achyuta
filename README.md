@@ -2,9 +2,9 @@
 
 # Hi I'm Mihir 👋 !
 
-- #### I'm a student at the University of Wisconsin Madison majoring in Computer Science and work mainly in JavaScript and C++
+- #### I graduated from the University of Wisconsin Madison majoring in Computer Science and work mainly in JavaScript and C++
  
-- #### I've been a Software Engineering Intern at Facebook, Rippling, and ZipRecruiter
+- #### I'm a Software Engineer at [ZipRecruiter](https://www.ziprecruiter.com/)
 
 - Check out my [website](https://mihirachyuta.me/)
 
