@@ -4,7 +4,7 @@
 
 - #### I graduated from the University of Wisconsin Madison majoring in Computer Science and work mainly in JavaScript and C++
  
-- #### I'm a Software Engineer at [LangChain](https://www.ziprecruiter.com/](http://langchain.com)
+- #### I'm a Software Engineer at [LangChain](http://langchain.com)
 
 - Check out my [website](https://mihirachyuta.me/)
 
